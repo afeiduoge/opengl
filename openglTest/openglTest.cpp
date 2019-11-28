@@ -14,7 +14,7 @@ void key_Callback(GLFWwindow* glfwWindow, int key, int scancode, int action, int
 	}
 }
 
-int main()
+int main1()
 {
 	if (GL_FALSE == glfwInit())
 	{
