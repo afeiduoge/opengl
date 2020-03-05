@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="openglTest.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="DrawTriangle.cpp">
+    <ClCompile Include="zhuoseqi.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -30,7 +30,7 @@ void key_callback(GLFWwindow* window, int key, int scancode, int action, int mod
 		glfwSetWindowShouldClose(window, GL_TRUE);
 }
 
-int main()
+int main2()
 {
 	glfwInit();
 
