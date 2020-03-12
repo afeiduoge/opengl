@@ -27,7 +27,7 @@ const char* fragmentShaderSource = "#version 330 core\n"
 "   FragColor = ourColor;\n"
 "}\n\0";
 
-int main()
+int main3()
 {
 	glfwInit();
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
